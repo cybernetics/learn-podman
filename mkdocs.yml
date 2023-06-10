@@ -1,4 +1,7 @@
 site_name: Learn Podman
+site_url: https://www.patashale.in/learn-podman/
+site_author: Patashale™
+site_description: Learn everything about Podman here at Patashale™.
 repo_url: https://github.com/patashale/learn-podman
 repo_name: patashale/learn-podman
 theme:
